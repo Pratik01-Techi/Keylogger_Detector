@@ -17,12 +17,12 @@
 
 ### Threat Detection Dashboard
 > Scan results showing HIGH / MEDIUM / LOW threats with VT verdict and YARA severity columns.
-
+<img width="1902" height="1016" alt="Screenshot 2026-05-14 100829" src="https://github.com/user-attachments/assets/bffeb3e8-62fb-4c69-9da3-4f99046f5a99" />
 ---
 
 ### Right-Click Whitelist Action
 > Right-clicking a flagged process reveals the *"Add to whitelist (false positive)"* option to suppress known-good processes from future scans.
-
+<img width="1903" height="1009" alt="Screenshot 2026-05-14 100811" src="https://github.com/user-attachments/assets/b08696e9-19c7-493b-bf5c-afa13c2d7ad6" />
 
 
 ## 🧠 How Keyloggers Work
@@ -102,7 +102,7 @@ Keylogger-Detector/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/Keylogger-Detector.git
+git clone https://github.com/Pratik01-Techi/Keylogger_Detector.git
 cd Keylogger-Detector
 
 # Install dependencies
