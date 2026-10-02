@@ -1,0 +1,5 @@
+psutil
+fpdf2
+yara-python
+python-dotenv
+requests

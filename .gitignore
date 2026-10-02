@@ -1,0 +1,33 @@
+# Secrets — never commit
+.env
+.env.local
+*.pem
+*.key
+*.pfx
+
+# Local Python environment
+.venv/
+venv/
+ENV/
+env/
+
+# Bytecode & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+.cache/
+
+# VirusTotal cache (machine-specific)
+vt_cache.db
+
+# Scan outputs (can contain local paths, PIDs, hashes)
+reports/*.json
+reports/*.pdf
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
